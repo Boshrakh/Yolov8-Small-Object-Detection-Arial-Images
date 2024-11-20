@@ -3,8 +3,11 @@ This software project accompanies the research paper: [SOD-YOLOv8—Enhancing YO
 
 <p align="center">
   <img src="https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images/blob/main/Images/real_results.jpg" alt="Example Image" hight="300">
-  <img src="https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images/blob/main/Images/visdrone_results.jpg" alt="Example Image" hight="300">
+  
 </p>
-
+# Visdrone dataset results
+<p align="center">
+<img src="https://github.com/Boshrakh/Yolov8-Small-Object-Detection-Arial-Images/blob/main/Images/visdrone_results.jpg" alt="Example Image" hight="300">
+</p>
 
 
